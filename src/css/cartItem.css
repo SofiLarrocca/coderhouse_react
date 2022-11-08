@@ -1,0 +1,38 @@
+
+
+.cartFinalizar { 
+    text-align: right;
+    width: 70%;
+    margin: auto;
+}
+
+.cartFinalizar p { 
+    display: block;
+    text-align: right;
+    padding: 2rem 0;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.cartFinalizar button { 
+    padding: 1rem;
+    font-size: 1rem;
+    background-color: #000;
+    color: #fff;
+}
+
+.itemCart {
+    background-color: #fff;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: auto;
+    margin-top: 0.5rem;
+    align-items: center;
+    border-bottom: 1px solid rgba(64, 61, 61, 0.831) ;
+}
+
+.img-cart { 
+    max-width: 5rem;
+}

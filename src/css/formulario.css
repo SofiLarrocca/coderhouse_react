@@ -1,0 +1,31 @@
+form { 
+    padding: 4rem;
+    border: 1px solid #000;
+    background-color: #fff;
+    font-size: 1.2rem;
+    width: 40%;
+    margin: auto;
+    margin-top: 4rem;
+    position: relative;
+}
+
+form label { 
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+form input { 
+    border: 1px solid rgb(129, 129, 129);
+    margin: 1rem 0;
+    padding: 0.5rem 0;
+}
+
+.bntFormulario { 
+    padding: 0.5rem;
+    font-size: 1rem;
+    position: absolute;
+    right: 20%;
+    background-color: #000;
+    color: #fff;
+}

@@ -1,0 +1,24 @@
+.container { 
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.counter-container { 
+    display: flex;
+    justify-content: center;
+}
+
+.counter { 
+    padding: 0 0.5rem;
+}
+
+.button-count { 
+    cursor: pointer;
+    padding: 0 0.5rem;
+    margin-top: 0.5rem;
+    color:  #fff;
+    background-color: #000;
+    border-radius: 8px;
+    text-align: start;
+}
+

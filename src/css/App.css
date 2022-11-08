@@ -1,0 +1,38 @@
+* { 
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+body { 
+  margin-bottom: 2rem;
+}
+
+.navBar {
+  background-color: #282c34;
+}
+
+.logo { 
+  font-family: 'Kanit', sans-serif;
+  padding: 0.5rem;
+  text-decoration: none;
+  font-size: 2rem;
+  color: #fff;
+  border: 8px solid red;
+}
+
+.navBar-container {
+  width: 80%;
+  margin: auto;
+  align-items: center;
+  padding: 1rem 0;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+.navBar-link {
+  color:#fff;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 0 2rem;
+}
+
